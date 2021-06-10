@@ -1,5 +1,5 @@
 def sayHello():
-  {println("Hello")}
+  {print("Hello")}
   
 def sayBye():
-    {println("Bye")}
+    {print("Bye")}
