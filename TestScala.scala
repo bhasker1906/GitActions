@@ -1,3 +1,3 @@
 object TestMain extends App {
-println("Welcome to Scala")
+println("Welcome to Scala");
 }
